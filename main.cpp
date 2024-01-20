@@ -58,6 +58,6 @@ int main() {
 
   emp.setGrade('h');
   emp.setAge(-5);
-  cout << "Omkar Test commit" << endl;
+  cout << "cplusplus = " << __cplusplus << endl;
   return 0;
 }
